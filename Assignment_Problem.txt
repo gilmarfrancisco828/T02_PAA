@@ -1,0 +1,2 @@
+Assignment Problem
+    Temos N funcionários e queremos atribuir N tarefas, uma tarefa a cada um deles, cada funionário demora um determinado tempo para realizar cada tarefa. A melhor solução é quando o tempo total é para terminar todas as tarefas é o menor possível.
